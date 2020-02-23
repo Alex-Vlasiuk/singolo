@@ -67,7 +67,7 @@ ul {
 }
 
 ul li {
-    float: left;
+    float: left;  
 }
 
 .header_wrapper {
@@ -83,7 +83,8 @@ ul li {
     line-height: 6.32px;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0 15px;
+    letter-spacing: 0em;
+    padding: 0 14px;
     
 }
 
