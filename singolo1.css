@@ -160,6 +160,7 @@ h1 {
     font-family: "Lato-black", sans-serif ;
     font-size: 30px;
     line-height: 17.86px;
+    letter-spacing: -0.033em;
 }
 
 .services_wrapper {
@@ -191,6 +192,7 @@ h1 {
     font-family: "Lato-Black", sans-serif;
     font-size: 18px;
     line-height: 17.86px;
+    letter-spacing: -0.025em;
 }
 
 .services_descr .item_descr {
