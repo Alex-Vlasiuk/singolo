@@ -5,7 +5,7 @@
   }
 
 html {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -41,16 +41,16 @@ header {
     text-transform: uppercase;
     text-decoration: none;
     color: #ffffff;
-    font-family: "Lato", sans-serif;
-    font-size: 23.5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
     line-height: 6.32px;
     padding-top: 2px;
 }
 
 .singolo_star {
-    margin-top: -8px;
+    margin-top: -12px;
     color: #f06c64;
-    font-size: 22px;
+    font-size: 18px;
     padding: 0;
 }
 
@@ -76,15 +76,19 @@ ul li {
     left: 595px;
 }
 
+.menu_item {
+    margin-top: -2px;
+}
+
 .menu_item a {
     color: #ffffff;
-    font-family: "Lato", sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     line-height: 6.32px;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 0em;
-    padding: 0 14px;
+    padding: 0 15px;
     
 }
 
@@ -149,15 +153,15 @@ ul li {
 .services_description p {
     padding-top: 27px;
     color: #767e9e;
-    font-family: "Lato", sans-serif;
-    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
     line-height: 30px;
     text-align: justify;
 }
 
 h1 {
     color: #666d89;
-    font-family: "Lato-black", sans-serif ;
+    font-family: 'Open Sans', sans-serif ;
     font-size: 30px;
     line-height: 17.86px;
     letter-spacing: -0.033em;
@@ -189,16 +193,16 @@ h1 {
 
 .services_descr h3 {
     color: #666d89;
-    font-family: "Lato-Black", sans-serif;
-    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
     line-height: 17.86px;
     letter-spacing: -0.025em;
 }
 
 .services_descr .item_descr {
     color: #767e9e;
-    font-family: "Lato";
-    font-size: 12px;
+    font-family: 'Open Sans';
+    font-size: 11px;
     line-height: 21.56px;
     margin-top: 10px;
 }
