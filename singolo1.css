@@ -130,3 +130,73 @@ ul li {
     top: 175px;
     right: 110px;
 }
+
+.services {
+    width: 1020px;
+    height: 496px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #f2f2f2;
+    box-shadow: 0 6px 0px 0px #ffffff;
+}
+
+.services_description {
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.services_description p {
+    padding-top: 27px;
+    color: #767e9e;
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+h1 {
+    color: #666d89;
+    font-family: "Lato-black", sans-serif ;
+    font-size: 30px;
+    line-height: 17.86px;
+}
+
+.services_wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 2em;
+    margin-left: 40px;
+    margin-top: 25px;
+    margin-right: 40px;
+}
+
+.services_wrapper .services_item {
+    display: flex;
+    height: 90px;
+    padding-top: 20px;
+}
+
+.image_wrapper {
+    text-align: center;
+}
+
+.services_descr {
+    margin-left: 20px;
+}
+
+.services_descr h3 {
+    color: #666d89;
+    font-family: "Lato-Black", sans-serif;
+    font-size: 18px;
+    line-height: 17.86px;
+}
+
+.services_descr .item_descr {
+    color: #767e9e;
+    font-family: "Lato";
+    font-size: 12px;
+    line-height: 21.56px;
+    margin-top: 10px;
+}
