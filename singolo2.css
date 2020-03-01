@@ -73,3 +73,66 @@ html {
   margin: 0 auto;
   margin-top: 20px;
 }
+
+.about {
+  height: 730px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.about_header {
+  padding-top: 68px;
+  margin-left: 40px;
+  margin-right: 30px;
+}
+
+.about_header h2 {
+  color: #666d89;
+  font-family: "Open Sans";
+  font-size: 30px;
+  line-height: 17.86px;
+  letter-spacing: -0.05em;
+}
+
+.about_header .about_descr {
+  margin-top: 29px;
+  color: #767e9e;
+  font-family: "Open Sans";
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.1px;
+}
+
+.about_contacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 45px 19px 0 40px;
+}
+
+.about_contacts h3 {
+  color: #666d89;
+  font-family: "Open Sans";
+  font-size: 18px;
+  line-height: 17.86px;
+  margin-top: 12px;
+  letter-spacing: -0.5px;
+}
+
+.about_contacts .about_contacts_descr {
+  width: 300px;
+  color: #767e9e;
+  font-family: "Open Sans";
+  font-size: 11px;
+  line-height: 21.56px;
+  margin-top: 10px;
+}
+
+.about_contacts .about_contacts_links {
+  margin-top: 25px;
+  letter-spacing: 4px;
+}
+
+.about_contacts .about_contacts_links a {
+  text-decoration: none;
+}
